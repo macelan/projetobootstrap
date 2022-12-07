@@ -1,12 +1,12 @@
 .bi.bi-bell {
   font-size: 50px;
-  color: green;
+  color: rgb(247, 134, 4);
   margin: 20px;
 }
 
 /* aula 2 */
 .bi-arrow-clockwise {
-  font-size: 40px;
+  font-size: 60px;
 }
 
 .red {
@@ -14,5 +14,5 @@
 }
 
 .blue {
-  color: blue;
+  color: rgb(219, 39, 165);
 }
